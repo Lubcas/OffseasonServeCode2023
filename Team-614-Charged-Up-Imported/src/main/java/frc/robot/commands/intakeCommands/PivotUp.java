@@ -1,7 +1,7 @@
 // Copyright (c) FIRST and other WPILib contributors.
 // Open Source Software; you can modify and/or share it under the terms of
 // the WPILib BSD license file in the root directory of this project.
-
+//I made a random comment
 package frc.robot.commands.intakeCommands;
 
 import edu.wpi.first.wpilibj2.command.CommandBase;
@@ -15,7 +15,7 @@ import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
  * The Pivot Command uses the PivotSubsystem in order
  * to set a specific value to the Pivot for the intake
  * of the robot
- * -
+ * 
  * 
  * @param pivotSpeed,RobotContainer.pivotSubsystem takes in the speed that the
  *                                                 pivot is supposed to be set
